@@ -1,7 +1,7 @@
 # SOLO_Head
 
 ## Assembly
-![image](https://user-images.githubusercontent.com/103576080/175921936-14868b17-cf19-4af6-98ff-7d4ef66d3c5c.png)
+![Solo_Head](https://user-images.githubusercontent.com/103576080/176720313-73ced302-63ae-458b-936b-b461d0995bb6.png)
 
 ## Parts
 | CAO | Print | Printing time | Name | Filament | Comment |
@@ -15,3 +15,17 @@
 | <img src="https://user-images.githubusercontent.com/103576080/176712137-3ec55f86-b181-4a0f-926b-d82970593bb2.png" width="200"/> | <img src="https://user-images.githubusercontent.com/103576080/176711980-e22a1324-28d7-4df3-b85b-4aada3c72269.png" width="200"/> | 12h | Head_Bottom | ABS | 45° touching buildplate supports required (use soluble supports is better) |
 | <img src="https://user-images.githubusercontent.com/103576080/176712526-d6b4ff95-5b67-4812-afbc-280ccc3a95df.png" width="200"/> |<img src="https://user-images.githubusercontent.com/103576080/176718247-713f9b9c-eabd-4451-8c09-0b96006b3957.png" width="200"/>| ?min |Head_Stand | ABS | No support required but print with soluble support is better |
 
+
+Manque :
+Joint TPU oreilles
+Rendu SOLIDWORKS du "board adaptator"
+Entretoise
+
+## Next Version
+In the next version i should try to reduce mass of components. To
+Pour être plus léger et garantir un aspet propre et esthétique il faut :
+-suprimmer le joint néoprène : récupère le son + dur a metre en place pour peu d'ajout
+-refaire un pied pour l'adapter au corps de SOLO
+-trouver une idée pour intégrer les microphones de manière "design" et peu couteuse (vis + joint torique  le reste de la matière directement sur la tête de solo par exemple)
+-clips rond pour simplifier l'impression
+-moteur GB2208 ?
