@@ -35,6 +35,10 @@ Manque :
 * Microphones LAAS
 * uDriver LAAS
 
+## Wires
+* 1x Female/Male DF13 cable extension
+* 1x Female/Male power cable extension
+
 ## Next Version
 In the next version i should try to reduce mass of components. To
 Pour être plus léger et garantir un aspet propre et esthétique il faut :
