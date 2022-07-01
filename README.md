@@ -29,11 +29,11 @@ Manque :
 |<img src="https://user-images.githubusercontent.com/103576080/176797794-832c3a0f-43eb-40b4-b760-5a3c4f113e31.png" width="100"/>|4x TCHC M2.5x20 Screw|[Fixnvis](https://www.visseriefixations.fr/vis-a-six-pans-creux/tete-fraisee-hexagonale-creuse/inox-a4/tfhc-m2-5x20-inox-a4-din-7991.html)|To link "Board_Mount" with spacers and "Head_Bottom" design parts|
 |<img src="https://user-images.githubusercontent.com/103576080/176798233-37725fd9-e9ad-492d-8506-0c2bc137f227.png" width="100"/>|1x AEDB-9140-A13 Broadcom Encoder|[RS](https://fr.rs-online.com/web/p/codeurs/7967806?cm_mmc=FR-PLA-DS3A-_-google-_-CSS_FR_FR_Automatisme_et_Controle_de_process_Whoop-_-(FR:Whoop!)+Codeurs-_-7967806&matchtype=&pla-371581285844&gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjVO7Ht5YMR8SH6bczQU4esH6yAVaWhDGcGdfncjnVxadasoeFgfhUsaAsJuEALw_wcB&gclsrc=aw.ds)|/|
 |<img src="https://user-images.githubusercontent.com/103576080/176798359-a442bc4f-9284-4650-9544-f3f09320328b.png" width="100"/>|1x GB4106 Tmotor motor|[Hexadrone](https://hexadrone.fr/gamme-gimbal-nacelle/509-moteur-brushless-nacelle-gb4106-tmotor-6971360351184.html)|/|
-
-* Module camera
-* Raspberry PI CM4
-* Microphones LAAS
-* uDriver LAAS
+|<img src="https://user-images.githubusercontent.com/103576080/176842784-77394364-5e0e-40f2-8b64-3c60082c9e68.png" width="100"/>|1x Arducam 2MP Global Shutter OG02B10 Pivariety camera module |[Robotshop](https://www.robotshop.com/be/fr/module-camera-couleur-arducam-2mp-global-shutter-og02b10-pivariety.html)|/|
+|<img src="https://user-images.githubusercontent.com/103576080/176843317-37360fd4-4d6f-4b6d-a5e9-b13ddcd80681.png" width="100"/>|1x ArduCam M12 camera lens (6pcs)|[Robotshop](https://www.robotshop.com/be/fr/kit-objectif-arducam-m12-pour-camera-hq-20-180deg-6pcs.html)|/|
+|<img src="https://user-images.githubusercontent.com/103576080/176843642-893fac68-a70e-4d11-ba58-e1c68d599df5.png" width="100"/>|1x CM4 Raspberry Pi|[Kubii](https://www.kubii.fr/cartes-raspberry-pi/3086-raspberry-pi-compute-module-4-3272496302952.html)|/|
+|<img src="https://user-images.githubusercontent.com/103576080/176845277-4c948203-9c1e-42c4-8735-74cc45363f07.png" width="100"/>|2x Microphone module|/|Electronic CAD are in the repository "hardware"|
+|<img src="https://user-images.githubusercontent.com/103576080/176845495-7ff0f7b5-cc67-4a1c-92a4-e13cbe0bf7dc.png" width="100"/>|2x uDriver board||[ODRI repository](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/electronics/micro_driver_electronics/README.md#micro-driver-electronics)
 
 ## Wires
 * 1x Female/Male DF13 cable extension
