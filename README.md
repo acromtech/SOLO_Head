@@ -45,5 +45,5 @@
 To reduce mass, clean print, and keep design apparence. I realize some modifications on the V6 design :
 * Delete "Head_Joint" neoprene gasket and chamfer "Head_Bottom" and "Head_Top" parts to simplify the model and clean model surface.
 * Design a new "Head_Stand" to link the SOLO's head to SOLO's body.
-* Delete "Microphone_Joint" and integrate a screwing system on the "Head_Bottom" to simplify the model. To limit microphone noise, generic O-rings are positioned on the screw.
+* Delete "Microphone_Joint" and integrate a screwing system on "Head_Bottom" to simplify the model. To limit microphone noise, generic O-rings are positioned on the screw.
 * Upgrade clips shape to limit printing supports.
