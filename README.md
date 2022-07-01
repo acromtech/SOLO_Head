@@ -2,6 +2,7 @@
 
 ## Assembly
 ![Solo_Head](https://user-images.githubusercontent.com/103576080/176720313-73ced302-63ae-458b-936b-b461d0995bb6.png)
+<br>*Note : Equations can be used to re-size head diameter*
 
 ## Design Parts
 | CAO | Print | Printing time | Name | Filament | Comment |
