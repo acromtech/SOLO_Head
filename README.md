@@ -1,7 +1,7 @@
 # SOLO_Head
 
 ## Assembly
-![Solo_Head](https://user-images.githubusercontent.com/103576080/176720313-73ced302-63ae-458b-936b-b461d0995bb6.png)
+![Solo_Head](https://user-images.githubusercontent.com/103576080/177130169-ec60ade3-e996-42d8-83a8-933b70f49e77.png)
 <br>*Note : Equations can be used to re-size head diameter*
 
 ## Design Parts
