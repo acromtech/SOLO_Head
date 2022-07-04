@@ -54,5 +54,5 @@ To reduce mass, clean print, and keep design apparence. I realize some modificat
 [Light BLDC Motor](https://github.com/acromtech/Light_BLDC_motor)<br>
 [Light BLDC Driver](https://github.com/acromtech/Light-BLDC-controller)
 
-## Licence
+## License
 BSD 3-Clause License
