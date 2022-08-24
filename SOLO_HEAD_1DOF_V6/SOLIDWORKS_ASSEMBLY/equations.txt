@@ -1,0 +1,7 @@
+﻿"Head_Diameter"= 100
+"D2@Esquisse1@SH06-Head_Top_V2-1.Part" = "Head_Diameter" / 2
+"D2@Esquisse1@SH06-Head_Bottom-2.Part" = "Head_Diameter" / 2
+"D7@Esquisse1@SH06-Microphone_Joint_V3-1.Part@SH06-01-MICROPHONE_MODULE_V3-1.Assembly" = "Head_Diameter"
+"D11@Esquisse1@SH06-Head_Stand-1.Part" = "Head_Diameter" / 2
+"D1@Esquisse7@SH06-Head_Joint_V4-1.Part" = "Head_Diameter" / 2
+"D5@Esquisse342@SH06-Head_Bottom-2.Part" = "Head_Diameter" / 2 - 14
