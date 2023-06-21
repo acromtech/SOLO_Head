@@ -50,9 +50,5 @@ To reduce mass, clean print, and keep design apparence. I realize some modificat
 * Delete "Microphone_Joint" and integrate a screwing system on "Head_Bottom" to simplify the model. To limit microphone noise, generic O-rings are positioned on the screw.
 * Upgrade clips shape to limit printing supports.
 
-## Links
-[Light BLDC Motor](https://github.com/acromtech/Light_BLDC_motor)<br>
-[Light BLDC Driver](https://github.com/acromtech/Light-BLDC-controller)
-
 ## License
 BSD 3-Clause License
