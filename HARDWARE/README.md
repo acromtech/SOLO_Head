@@ -1,4 +1,4 @@
-# SOLO12_head
+# Hardware
 
 ## Features
 Quantity|Reference|Voltage [V]|Intensity [A]|Detail
